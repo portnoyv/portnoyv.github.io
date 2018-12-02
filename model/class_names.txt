@@ -1,0 +1,10 @@
+bathtub
+circle
+cloud
+line
+moon
+snake
+square
+star
+triangle
+zigzag
